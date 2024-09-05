@@ -1,10 +1,10 @@
 # DemoExam
-MVC (model view controller) - модель-представление-контроллер - 
+**MVC** (model view controller) - модель-представление-контроллер - 
 схема разделения данных приложения, и управляющей логики на три
 оотдельных компонента: модель, представление и контроллер. Модель: бд 
-SELECT INSERT UPDATE DELETE
+**SELECT INSERT UPDATE DELETE**
 
-View обычно содержит HTMl и CSS
+**View** обычно содержит HTMl и CSS
 
-Controller - получает данные обробатывает запросы
+**Controller** - получает данные обробатывает запросы
 файлы xamp хранятся opt lamp htdocs
